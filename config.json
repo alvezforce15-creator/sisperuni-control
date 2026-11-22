@@ -1,0 +1,11 @@
+{
+  "activo": true,
+  "version": "1.0",
+  "url_sisperuni": "https://sisper.fap.mil.pe/sistemascoper/inicio.php",
+  "url_descarga": "",
+  "mensaje_bloqueo": "Sistema en mantenimiento. Contacte al administrador.",
+  "nsas_autorizados": [
+    "179672",
+    "612520"    
+  ]
+}
