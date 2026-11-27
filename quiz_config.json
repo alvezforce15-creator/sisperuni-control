@@ -2,16 +2,12 @@
   "activo": true,
   "mensaje_bloqueo": "Sistema en mantenimiento. Contacte al administrador.",
   "nsas_autorizados": [
-    "179672",
-    "612520",
-    "612664"
+    "179672"
   ],
   "dnis_autorizados": [
-    "12345678",
-    "87654321"
+    "76676857"
   ],
   "libros_remotos": [
-    "https://enlace-directo-a-tu-libro-1.pdf",
-    "https://enlace-directo-a-tu-libro-2.docx"
+    "https://enlace-directo-a-tu-libro.pdf"
   ]
 }
