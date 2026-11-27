@@ -1,10 +1,11 @@
 {
   "activo": true,
-  "mensaje_bloqueo": "Equipo no autorizado. Contacte al administrador.",
+  "gemini_api_key": "PEGA_AQUI_TU_API_KEY_DE_GEMINI",
+  "gemini_modelo": "gemini-2.5-flash",
   "equipos_autorizados": [
     "JAM-3697CDB3"
   ],
   "libros_remotos": [
-    "https://github.com/alvezforce15-creator/sisperuni-control/blob/main/ELE%2004-26.pdf"
+    "https://raw.githubusercontent.com/alvezforce15-creator/sisperuni-control/main/ELE%2004-26.pdf"
   ]
 }
