@@ -1,6 +1,6 @@
 {
   "activo": true,
-  "gemini_api_key": "PEGA_AQUI_TU_API_KEY_DE_GEMINI",
+  "gemini_api_key": "AQ.Ab8RN6JEGyTO_6o5GufklPXUoCpRD2Xsou_WJPI8Pzr6zMuD2Q",
   "gemini_modelo": "gemini-2.5-flash",
   "equipos_autorizados": [
     "JAM-3697CDB3"
