@@ -1,11 +1,8 @@
 {
   "activo": true,
-  "mensaje_bloqueo": "Sistema en mantenimiento. Contacte al administrador.",
-  "nsas_autorizados": [
-    "179672"
-  ],
-  "dnis_autorizados": [
-    "76676857"
+  "mensaje_bloqueo": "Equipo no autorizado. Contacte al administrador.",
+  "equipos_autorizados": [
+    "AQUI-PEGA-TU-CODIGO-DE-EQUIPO"
   ],
   "libros_remotos": [
     "https://github.com/alvezforce15-creator/sisperuni-control/blob/main/ELE%2004-26.pdf"
